@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Chapter 1 - Introduction">
+      <UniqueIdentifier>{5b74c1a5-6b0a-4a49-8a50-bd77a3534aa0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chapter 2 - Fudamental Data Types">
+      <UniqueIdentifier>{e37ecfb3-7d13-4d78-8954-8fa0621e27d7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chapter 3 - Decisions">
+      <UniqueIdentifier>{5f3a5a7a-9f00-45be-8d5c-517848e9d003}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Chapter 4 - Loops">
+      <UniqueIdentifier>{934f43f4-5247-4346-94b6-8418bd6245f0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="P1.13.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="Chp1 Code Test.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.1.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.2.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.3.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.4.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.5.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.6.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.7.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.8.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.9.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.10.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.11.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="P1.12.cpp">
+      <Filter>Source Files\Chapter 1 - Introduction</Filter>
+    </ClCompile>
+    <ClCompile Include="Chp2 Code Test.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.1.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.2.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.3.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.4.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.5.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.6.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.7.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="P2.18.cpp">
+      <Filter>Source Files\Chapter 2 - Fudamental Data Types</Filter>
+    </ClCompile>
+    <ClCompile Include="Chp 3 Code Test.cpp">
+      <Filter>Source Files\Chapter 3 - Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.1.cpp">
+      <Filter>Source Files\Chapter 3 - Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.3.cpp">
+      <Filter>Source Files\Chapter 3 - Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.4.cpp">
+      <Filter>Source Files\Chapter 3 - Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.5.cpp">
+      <Filter>Source Files\Chapter 3 - Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.6.cpp">
+      <Filter>Source Files\Chapter 3 - Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.9.cpp">
+      <Filter>Source Files\Chapter 3 - Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="P3.15.cpp">
+      <Filter>Source Files\Chapter 3 - Decisions</Filter>
+    </ClCompile>
+    <ClCompile Include="Chp 4 Code Test.cpp">
+      <Filter>Source Files\Chapter 4 - Loops</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
+</Project>
