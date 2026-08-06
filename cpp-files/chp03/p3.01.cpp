@@ -28,7 +28,7 @@ int main()
 		{
 			cout << "You have ice!" << endl;
 		}
-		else 
+		else
 		{
 			cout << "You have liquid water!" << endl;
 		}

@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-	// dimension of paper in inches 
+	// dimension of paper in inches
 	const double length_inch = 8.5;
 	const double height_inch = 11;
 

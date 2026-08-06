@@ -12,7 +12,7 @@ int main()
 	int n = number.length();
 	string output1 = number.substr(0, n-4);
 	string output2 = number.substr(n-3, 3);
-	cout << output1 + output2;
+	cout << output1 + output2 << endl;
 
 	return 0;
 }
