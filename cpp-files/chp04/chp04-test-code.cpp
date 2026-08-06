@@ -19,4 +19,4 @@ int main()
 	cout << "The investment tripled after " << year << " years" << endl;
 
 	return 0;
-}/
+}
