@@ -40,6 +40,6 @@ int main ()
 //            cout << a << endl; // for debugging
         }
     }
-    cout << "The sum of all odd nunbers for the given interval is: " << sum << endl;
+    cout << "The sum of all odd numbers for the given interval is: " << sum << endl;
     return 0;
 }
