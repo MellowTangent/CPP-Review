@@ -9,9 +9,9 @@ int main ()
     
     while (n < 20 )
     {
-        n++;
         power = pow(2,n);
         cout << power << endl;
+        n++;
     }
     return 0;
 }
