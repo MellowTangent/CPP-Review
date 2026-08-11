@@ -6,7 +6,7 @@ A collection of C++ practice problems and exercises covering core language funda
 Problems are sourced from "C++ for Everyone, 2nd Edition" by Cay Horstmann.
 
 ## File Naming Convention
-Files follow the format `p[Chapter].[Problem].[part a,b,c...z].cpp`
+Files follow the format `p[chapter].[problem].[part a,b,c...z].cpp`
 For example, `p1.05.a.cpp` = chapter 1, problem 5, part a
 
 ## Topics Covered
