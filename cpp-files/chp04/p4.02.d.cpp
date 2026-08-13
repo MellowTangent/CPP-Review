@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 
-    int num = 0; // holds current user input
+    int num = 0; // holds current value/user input
     int prev_num = 0; // holds the previous number being compared
 
 
