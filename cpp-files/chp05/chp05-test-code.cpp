@@ -1,7 +1,12 @@
 #include <iostream>
-#include <cmath>
 using namespace std;
 
+/**
+ * Computes the sum of two numbers
+ * @param num1 this is the first number used in the sum
+ * @param num2 this is the second number used in the sum
+ * @return the sum
+ */
 
 double sum(double num1, double num2)
 {
@@ -20,6 +25,5 @@ int main ()
     cin >> number2;
     cout << endl;
     cout << "The sum is: " << sum(number1,number2) << endl;
-    
     return 0;
 }
